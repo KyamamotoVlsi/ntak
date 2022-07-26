@@ -1,2 +1,2 @@
 # ntak
-to create train cases with hspice
+高井先生のNTAKプログラムを用いたトポロジー分類に用いる学習データの自動生成プログラム
